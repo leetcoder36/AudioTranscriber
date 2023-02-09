@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff669205-8e38-4d59-a1c9-74b792697ccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssemblyAIAPITest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transcript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VoiceToText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VoiceToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VoiceToText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +64,7 @@
       <workItem from="1675221329421" duration="773000" />
       <workItem from="1675351955600" duration="115000" />
       <workItem from="1675918200303" duration="359000" />
-      <workItem from="1675918713660" duration="644000" />
+      <workItem from="1675918713660" duration="1271000" />
     </task>
     <servers />
   </component>
