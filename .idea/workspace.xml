@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff669205-8e38-4d59-a1c9-74b792697ccc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/FileOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOutput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VoiceToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VoiceToText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <workItem from="1675221329421" duration="773000" />
       <workItem from="1675351955600" duration="115000" />
       <workItem from="1675918200303" duration="359000" />
-      <workItem from="1675918713660" duration="1271000" />
+      <workItem from="1675918713660" duration="2143000" />
     </task>
     <servers />
   </component>

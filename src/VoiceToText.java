@@ -51,7 +51,8 @@ public class VoiceToText {
             }
 
             FileOutput output = new FileOutput();
-            output.write(transcript.getText(), "transcription.txt");
+            output.write(transcript.getText(), "transcription.txt", "C:\\");
+            // modify the method call to desired output file directory
 
 
         }
@@ -59,7 +60,7 @@ public class VoiceToText {
         {
             e.printStackTrace();
         }
-        
+
 
     }
 }
